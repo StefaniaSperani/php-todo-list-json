@@ -29,10 +29,10 @@
                     </li>
                 </ul>
             </div>
-            <div>
+            <!-- <div>
                 <input type="text">&nbsp;
                 <button>Aggiungi</button>
-            </div>
+            </div> -->
         </div>
     </div>
 
